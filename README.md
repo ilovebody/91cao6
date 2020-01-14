@@ -12,6 +12,11 @@
 客户端App下载：
 1、苹果ios，商店内搜索：nextcloud
 2、安卓：
+
 方法一：安装FDroid商店，然后在商店内搜索nextcloud
+
 https://f-droid.org/packages/com.nextcloud.client/
-方法二：
+
+方法二：直接下载
+
+https://github.com/ilovebody/91cao6/blob/master/nc202001.apk
