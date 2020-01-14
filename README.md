@@ -1,9 +1,9 @@
 # 91cao6【谐音：就要草榴】 奶草 回家的路
 
-![avatar](https://f-droid.org/repo/icons-640/com.nextcloud.client.30090290.png)
+![avatar](http://66.42.104.152/logo.png)<br/>
 可以把本页拍照、截图收藏存起来【https://github.com/ilovebody/91cao6/】
 
-官网地址：http://91cao6.com
+官网地址：http://91cao6.com<br />
 官网地址2：http://NaiCao.Xyz
 
 客户端App下载：
