@@ -11,9 +11,10 @@
 2、安卓：
 
 方法一：浏览器打开：http://apks.software/
+
 然后搜索：nextcloud
 
 方法二：直接下载
-https://raw.githubusercontent.com/ilovebody/91cao6/master/nc202001.apk
+http://144.202.80.145/nc202001.apk
 
 （如果官网地址被封，在此可以找到最新可用网址）
