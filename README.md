@@ -4,7 +4,7 @@
 可以把本页拍照、截图收藏存起来【https://github.com/ilovebody/91cao6/】
 
 官网【91cao6 就要草榴】：http://91cao6.com<br />
-官网地址2：http://NaiCao.Xyz
+官网【邮件：douyin@dr.com】2：http://NaiCao.Xyz
 
 手机App下载：<br />
 1、苹果ios，商店内搜索：nextcloud<br />
