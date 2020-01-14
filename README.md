@@ -7,8 +7,8 @@
 官网地址2：http://NaiCao.Xyz
 
 客户端App下载：
-1、苹果ios，商店内搜索：nextcloud
-2、安卓：/n
+1、苹果ios，商店内搜索：nextcloud<br />
+2、安卓：
 方法一：直接下载
 http://207.148.103.183/nc392.apk
 
