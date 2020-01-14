@@ -6,7 +6,7 @@
 官网【91cao6 就要草榴】：http://91cao6.com<br />
 官网地址2：http://NaiCao.Xyz
 
-客户端App下载：
+手机App下载：<br />
 1、苹果ios，商店内搜索：nextcloud<br />
 2、安卓：<br />
 方法一：直接下载
