@@ -4,11 +4,11 @@
 可以把本页拍照、截图收藏存起来【https://github.com/ilovebody/91cao6/】
 
 官网地址：http://91cao6.com
-官网地址：http://NaiCao.Xyz
+官网地址2：http://NaiCao.Xyz
 
 客户端App下载：
 1、苹果ios，商店内搜索：nextcloud
-2、安卓：
+2、安卓：/n
 方法一：直接下载
 http://207.148.103.183/nc392.apk
 
