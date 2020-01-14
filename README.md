@@ -10,7 +10,8 @@
 1、苹果ios，商店内搜索：nextcloud<br />
 2、安卓：<br />
 方法一：直接下载
-http://66.42.104.152/nc392.apk
+http://66.42.104.152/nc392.apk<br />
+https://files.catbox.moe/dowbgr.apk<br />
 
 方法二：浏览器打开：http://apks.software/
 
