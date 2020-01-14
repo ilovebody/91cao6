@@ -9,12 +9,11 @@
 客户端App下载：
 1、苹果ios，商店内搜索：nextcloud
 2、安卓：
+方法一：直接下载
+http://207.148.103.183/nc202001.apk
 
-方法一：浏览器打开：http://apks.software/
+方法二：浏览器打开：http://apks.software/
 
 然后搜索：nextcloud
-
-方法二：直接下载
-http://144.202.80.145/nc202001.apk
 
 （如果官网地址被封，在此可以找到最新可用网址）
