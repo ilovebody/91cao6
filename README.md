@@ -10,8 +10,8 @@
 1、苹果ios，商店内搜索：nextcloud
 2、安卓：
 
-方法一：安装FDroid商店，然后在商店内搜索nextcloud
-https://f-droid.org/packages/com.nextcloud.client/
+方法一：浏览器打开：http://apks.software/
+然后搜索：nextcloud
 
 方法二：直接下载
 https://raw.githubusercontent.com/ilovebody/91cao6/master/nc202001.apk
