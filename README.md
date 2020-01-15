@@ -1,4 +1,4 @@
-# 《奶草》（耐操：NC）回家的路
+# 《奶草》（耐操：NC）回家的路☁️
 
 ![avatar](http://66.42.104.152/logo.png)<br/>
 可以把本页拍照、截图收藏存起来【https://github.com/ilovebody/91cao6/】
