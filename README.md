@@ -20,3 +20,4 @@ https://files.catbox.moe/dowbgr.apk<br />
 （如果官网地址被封，在此可以找到最新可用网址）
 播放器VLC下载：
 https://f-droid.org/zh_Hans/packages/org.videolan.vlc/
+媒体中心Kod下载：https://f-droid.org/zh_Hans/packages/org.xbmc.kodi/
