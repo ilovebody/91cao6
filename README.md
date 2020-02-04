@@ -15,8 +15,8 @@
 1、苹果ios，应用商店内搜索：nextcloud<br />
 2、安卓：<br />
 方法一：直接下载
-http://66.42.104.152/nc392.apk<br />备用<br />
-https://files.catbox.moe/dowbgr.apk<br />
+http://66.42.104.152/nc392.apk<br /><br />
+备用https://files.catbox.moe/dowbgr.apk<br />
 方法二：https://f-droid.org/packages/com.nextcloud.client/<br />
 方法三：浏览器打开：http://apks.software/<br />
 然后搜索：nextcloud
