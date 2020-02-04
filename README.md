@@ -9,18 +9,16 @@
 《奶草》苹果版教程：http://66.42.104.152/naicao-ios.pdf<br />
 《奶草》安卓版教程：http://66.42.104.152/naicao-az.pdf
 <br />
-手机App下载：<br />
-1、苹果ios，商店内搜索：nextcloud<br />
+《奶草》手机App下载：<br />
+1、苹果ios，应用商店内搜索：nextcloud<br />
 2、安卓：<br />
 方法一：直接下载
 http://66.42.104.152/nc392.apk<br />备用<br />
 https://files.catbox.moe/dowbgr.apk<br />
 方法二：https://f-droid.org/packages/com.nextcloud.client/<br />
 方法三：浏览器打开：http://apks.software/<br />
-
 然后搜索：nextcloud
 
 （如果官网地址被封，在此可以找到最新可用网址）
 播放器VLC下载：
 https://f-droid.org/zh_Hans/packages/org.videolan.vlc/
-媒体中心Kod下载：https://f-droid.org/zh_Hans/packages/org.xbmc.kodi/
