@@ -5,7 +5,10 @@
 
 官网【91cao6 就要草榴】：http://91cao6.com<br />
 官网【邮件：douyin@dr.com】2：http://NaiCao.Xyz
-
+《奶草》土豆群教程下载：http://66.42.104.152/naicao-tudou.pdf<br />
+《奶草》苹果版教程：http://66.42.104.152/naicao-ios.pdf<br />
+《奶草》安卓版教程：http://66.42.104.152/naicao-az.pdf
+<br />
 手机App下载：<br />
 1、苹果ios，商店内搜索：nextcloud<br />
 2、安卓：<br />
