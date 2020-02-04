@@ -21,6 +21,6 @@ https://files.catbox.moe/dowbgr.apk<br />
 方法三：浏览器打开：http://apks.software/<br />
 然后搜索：nextcloud
 
-（如果官网地址被封，在本页和土豆群可以找到最新可用网址）
+（如果官网地址失效，在本页和土豆群可以找到最新可用网址）
 播放器VLC下载：
 https://f-droid.org/zh_Hans/packages/org.videolan.vlc/
