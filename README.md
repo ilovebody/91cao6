@@ -3,7 +3,7 @@
 ![avatar](http://66.42.104.152/logo.png)<br/>
 可以把本页拍照、截图收藏存起来【https://github.com/ilovebody/91cao6/】
 
-官网【91cao6 就要草榴】：http://91cao6.com<br />
+官网【91cao6 好记方法：就要草榴】：http://91cao6.com<br />
 官网【邮件：douyin@dr.com】2：http://NaiCao.Xyz<br />
 // **重点来了，查看教程，如何使用奶草，免费享受性福** //
 <br />
