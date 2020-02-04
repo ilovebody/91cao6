@@ -14,12 +14,11 @@
 《奶草》手机App下载：<br />
 1、苹果ios，应用商店内搜索：nextcloud<br />
 2、安卓：<br />
-方法一：直接下载  http://66.42.104.152/nc392.apk<br /><br />
+方法一：直接下载  http://66.42.104.152/nc392.apk<br />
 备用  https://files.catbox.moe/dowbgr.apk<br />
 方法二：https://f-droid.org/packages/com.nextcloud.client/<br />
-方法三：浏览器打开：http://apks.software/<br />
-然后搜索：nextcloud
-
+方法三：浏览器打开：http://apks.software/  然后搜索：nextcloud
+<br />
 （如果官网地址失效，在本页和土豆群可以找到最新可用网址）<br/>
 播放器VLC下载：
 https://f-droid.org/zh_Hans/packages/org.videolan.vlc/
